@@ -1,4 +1,4 @@
-# hackerdom.ru
+# HackerDom.ru
 
 Website about all of our projects. Currently only in russian.
 
